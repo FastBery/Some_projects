@@ -1,0 +1,3 @@
+/home/pavel_ignatev/Project_3DModel-main/build/CMakeFiles/3D_model.dir
+/home/pavel_ignatev/Project_3DModel-main/build/CMakeFiles/edit_cache.dir
+/home/pavel_ignatev/Project_3DModel-main/build/CMakeFiles/rebuild_cache.dir

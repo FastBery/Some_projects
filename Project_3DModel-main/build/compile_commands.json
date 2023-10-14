@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pavel_ignatev/Project_3DModel-main/build",
+  "command": "/usr/bin/g++-12   -g -o CMakeFiles/3D_model.dir/Tree/main.cpp.o -c /home/pavel_ignatev/Project_3DModel-main/Tree/main.cpp",
+  "file": "/home/pavel_ignatev/Project_3DModel-main/Tree/main.cpp"
+}
+]
