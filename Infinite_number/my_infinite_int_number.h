@@ -10,7 +10,6 @@ using u = int;
 class inf
 {
     std::vector<u> vec;
-    /* if True number < 0; if False number >= 0*/
     std::vector<u> sum_of_2(u a, u b){
         std::vector<u> vec = {0, 0};
         if(a >= 10000 or b >= 10000){
