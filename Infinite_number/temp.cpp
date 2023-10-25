@@ -24,10 +24,8 @@ using namespace std;
 //     }
 
 int main(){
-    inf a;
-    a = "-123455";
-    inf  b;
-    b = "543211";
+    inf a = inf("-123455");
+    inf b = inf("543211");
     // a = {1, 2342} + {2, 2102};
     // for(std::size_t i = 0; i < 2; i++){
     //     cout << a[i];
